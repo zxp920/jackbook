@@ -89,7 +89,7 @@ body {
   padding: 0 28px;
   letter-spacing: 1px;
   text-align: center;
-  font-family: cursive;
+  font-family: 华文行楷;
   line-height: 28px;
 }
 
@@ -300,14 +300,14 @@ footer .copyright {
   }
 
   .container .quote {
-    font-size: 18px;
+    font-size: 28px;
     margin-top: 36px;
     padding: 0 80px;
   }
 
 
   .container .quote::after {
-    height: 22px;
+    height: 30px;
   }
 
   nav {
